@@ -7,12 +7,12 @@
 
 'Shrthnd' baut auf diese Open-Source Projekte:
 
-* [shrthnd.js](https://github.com/frankmarineau/shrthnd.js) - die CSS Shortening Engine
 * [Gulp](https://github.com/gulpjs/gulp/) - der Task Runner
+* [Ace Editor](https://github.com/ajaxorg/ace) - für Syntax Highlighting etc.
+* [shrthnd.js](https://github.com/frankmarineau/shrthnd.js) - die CSS Shortening Engine
+* [Angular](https://github.com/angular/angular.js) - das JavaScript MVC Framework
 * [Angulpify](https://github.com/jgoux/generator-angulpify) - der Yeoman Generator als Baugerüst
 * [Browserify](https://github.com/substack/node-browserify) - strukturiert den Code + bindet npm-only CSS Parser ein
-* [Angular](https://github.com/angular/angular.js) - das JavaScript MVC Framework
-* [Ace Editor](https://github.com/ajaxorg/ace) - für Syntax Highlighting u.v.a.m.
 
 
 ## Entwicklungsumgebung
