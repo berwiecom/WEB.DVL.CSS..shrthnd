@@ -1,36 +1,29 @@
-# CSS Shorthand Generator
-#### by Alexander Haniotis and Francis Marineau
+# 'Shrthnd', der webbasierte CSS Kurzform-Generator
+
+#### von Alexander Haniotis [@alexhaniotis](https://twitter.com/alexhaniotis/) und Francis Marineau [@frankmarineau](https://twitter.com/frankmarineau/) in der Digital Agentur [Volume7](https://volume7.io/) in Montreal, Kanada.
 
 
 ## Tech
 
-We're using a bunch of open-source projects:
+'Shrthnd' baut auf diese Open-Source Projekte:
 
-* [shrthnd.js](https://github.com/frankmarineau/shrthnd.js) - The CSS shortening engine
-* [Gulp](https://github.com/gulpjs/gulp/) - The streaming build system
-* [Angulpify](https://github.com/jgoux/generator-angulpify) - The yeoman generator used to scaffold this project
-* [Browserify](https://github.com/substack/node-browserify) - Used to structure the code and easily include npm-only css parsers
-* [Angular](https://github.com/angular/angular.js) - JavaScript MVC Framework
-* [Ace Editor](https://github.com/ajaxorg/ace) - For syntax highlighting and more
+* [shrthnd.js](https://github.com/frankmarineau/shrthnd.js) - die CSS Shortening Engine
+* [Gulp](https://github.com/gulpjs/gulp/) - der Task Runner
+* [Angulpify](https://github.com/jgoux/generator-angulpify) - der Yeoman Generator als Baugerüst
+* [Browserify](https://github.com/substack/node-browserify) - strukturiert den Code + bindet npm-only CSS Parser ein
+* [Angular](https://github.com/angular/angular.js) - das JavaScript MVC Framework
+* [Ace Editor](https://github.com/ajaxorg/ace) - für Syntax Highlighting u.v.a.m.
 
 
-## Setting up the environment
+## Entwicklungsumgebung
 
 ```sh
-$ git clone git@github.com:frankmarineau/shorthand.git
-$ cd shorthand
-$ bower install
-$ npm install
-$ gulp
+git   clone https://github.com/berwiecom/WEB.DVL.CSS..shrthnd.git
+cd    shorthand
+bower install
+npm   install
+gulp
 ```
 
 ## Server
-Gulp will start a local server on port 8080 [http://localhost:8080](http://localhost:8080)
-
-
-## Volume7
-
-Montreal-based digital agency
-
-[@alexhaniotis](http://twitter.com/alexhaniotis/)
-[@frankmarineau](http://twitter.com/frankmarineau/)
+Gulp startet den [localhost:8080](https://localhost:8080)
