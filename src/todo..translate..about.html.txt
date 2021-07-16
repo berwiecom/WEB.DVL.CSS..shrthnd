@@ -1,0 +1,30 @@
+```
+                                  ______
+#### Translate shrthnd.volume7.io/about |
+                                  ______|
+
+	Sauce in GH: layout.jade
+github.com/berwiecom/WEB.DVL.CSS..shrthnd.de/blob/master/src/modules/app/about/layout.jade
+
+    section#about
+      .info-block
+        h2 What is Shrthnd?
+        :markdown
+          Shrthnd is a handy tool that ..........
+
+
+	Sauce in HTML:
+(1. CSS aus, 2. selection source)
+
+    <section id="about" class="ng-scope">
+
+      <div class="info-block">
+        <h2>What is Shrthnd?</h2>
+         <p>Shrthnd is a handy tool that ..........</p>
+      </div>
+
+      <div class="info-block">
+        <h2>How do ...
+
+    </section>
+```
