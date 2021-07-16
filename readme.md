@@ -1,6 +1,8 @@
 # 'Shrthnd', der webbasierte CSS Kurzform-Generator
 
-#### von Alexander Haniotis [@alexhaniotis](https://twitter.com/alexhaniotis/) und Francis Marineau [@frankmarineau](https://twitter.com/frankmarineau/) in der Digital Agentur [Volume7](https://volume7.io/) in Montreal, Kanada.
+##### 'Shrthnd' von Alexander Haniotis [@alexhaniotis](https://twitter.com/alexhaniotis/) und Francis Marineau [@frankmarineau](https://twitter.com/frankmarineau/) in der Digital Agentur '[Volume7](https://volume7.io/)' in Montreal, Kanada. ~ &Uuml;bersetzt von [Benjamin M. Berwien](https://berwie.com)
+
+![Screenshot of shrthnd](https://user-images.githubusercontent.com/34105153/126012046-477fb025-1e9b-4fd9-82fc-a4b468ec2be0.png)
 
 
 ## Tech
